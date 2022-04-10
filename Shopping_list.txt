@@ -1,5 +1,6 @@
 mleko  x2
-domat   x5
+domat   x6
 kromid   x4
 morkov   x5
-leb   x6
+leb   x2
+
